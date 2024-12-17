@@ -94,8 +94,8 @@ The API is built using Express.js, providing RESTful endpoints for managing the 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd foreignadmits
+   git clone git@github.com:Rl0007/ForeignAdmits.git
+   cd ForeignAdmits
    ```
 
 2. **Install dependencies**
